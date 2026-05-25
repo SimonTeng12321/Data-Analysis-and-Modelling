@@ -1,1 +1,1 @@
-Collection of data analysis assignments i did at UNSW
+Collection of data analysis assignments i did at UNSW.
